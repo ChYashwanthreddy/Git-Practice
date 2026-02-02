@@ -1,0 +1,14 @@
+Feature: Cart Management
+
+Description:
+This file represents the cart feature of the application.
+It allows users to view selected items before checkout.
+
+Functional Notes:
+- Add items to cart
+- Remove items from cart
+- Update item quantity
+- View total price
+
+Status:
+Initial version created for cart feature branch.
