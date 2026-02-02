@@ -1,0 +1,14 @@
+Feature: Payment Processing
+
+Description:
+This file represents the payment feature.
+It handles payment flow after cart confirmation.
+
+Functional Notes:
+- Select payment method
+- Validate payment details
+- Process transaction
+- Display payment status
+
+Status:
+Payment feature implemented and committed.
