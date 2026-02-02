@@ -1,0 +1,7 @@
+Git Practice Notes
+
+1. git init        - Initialize a repository
+2. git status      - Check repo status
+3. git add .       - Stage changes
+4. git commit      - Save changes
+5. git push        - Push to GitHub
